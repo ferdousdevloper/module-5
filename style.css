@@ -43,6 +43,14 @@ nav {
     align-items: center;
     margin: 0 200px;
 }
+.develop{
+    display: flex;
+    display: flex;
+    position: absolute;    
+    top: 71px;
+    left: 25px;
+    height: 540px;
+}
 
 .web-title {
     color: #181818;
